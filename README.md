@@ -16,15 +16,19 @@
     <img src="https://img.shields.io/badge/License-GPL--3.0-blue?style=for-the-badge&logo=gnu&logoColor=white" alt="License: GPL-3.0">
   </a>
   <img src="https://img.shields.io/badge/Status-Planning-orange?style=for-the-badge" alt="Status: Planning">
-</p>---
+</p>
 
-Overview
+---
+
+## Overview
 
 WSpoof is a planned Windows utility for managing supported system settings, testing identification values, and applying reusable configuration profiles.
 
 Built with C# and Windows Presentation Foundation (WPF), WSpoof uses the actual "WPF UI" (https://github.com/lepoco/wpfui) library for its Fluent Design interface.
 
-Planned Features
+---
+
+## Planned Features
 
 - Dashboard — System information, hardware status, network status, and quick actions.
 - Windows — Windows information and supported system settings.
@@ -39,7 +43,9 @@ Planned Features
 - Settings — Application preferences, themes, and update settings.
 - GitHub Releases — Check for updates and view release information inside the app.
 
-Interface
+---
+
+## Interface
 
 WSpoof is planned to include:
 
@@ -51,7 +57,9 @@ WSpoof is planned to include:
 - In-app status messages and operation history.
 - No toast notifications.
 
-Profiles and Recovery
+---
+
+## Profiles and Recovery
 
 Profiles will group supported settings into reusable configurations.
 
@@ -61,7 +69,7 @@ If an operation fails during profile application, WSpoof will stop at the first 
 
 Profiles are intended to use local storage with JSON import and export.
 
-Transparency and Safety
+##'Transparency and Safety
 
 WSpoof aims to distinguish actual system changes from simulated testing values.
 
@@ -74,19 +82,25 @@ WSpoof aims to distinguish actual system changes from simulated testing values.
 
 Not every hardware identifier can be changed through ordinary Windows settings.
 
-Updates
+---
+
+## Updates
 
 WSpoof is planned to check GitHub Releases for newer stable versions at startup.
 
 Update information will appear inside the application. Updates will never be forced, and WSpoof will remain usable if an update check fails.
 
-Development Status
+---
+
+## Development Status
 
 "Development Status" (https://img.shields.io/badge/Development-Planning-orange?style=flat-square)
 
 WSpoof is currently in the planning stage. The features described above are planned and may change during development.
 
-License
+---
+
+## License
 
 WSpoof is licensed under the GNU General Public License v3.0 (GPL-3.0).
 
