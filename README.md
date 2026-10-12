@@ -104,14 +104,14 @@ WSpoof is currently in the planning stage. The features described above are plan
 
 WSpoof is licensed under the GNU General Public License v3.0 (GPL-3.0).
 
-See ""LICENSE"" (LICENSE) for the full license text.
+See [LICENSE](LICENSE) for the full license text.
 
 ---
 
 ## Acknowledgements
 
-- "WPF UI" (https://github.com/lepoco/wpfui) — Fluent Design controls and components for WPF.
-- "Shields.io" (https://shields.io/) — Project badges.
+- [WPF UI](https://github.com/lepoco/wpfui) — Fluent Design controls and components for WPF.
+- [Shields.io](https://shields.io/) — Project badges.
 
 -----
 
